@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:itunes="http://itunes.apple.com/lyric-ttml-extensions" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xml:lang="en-US">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+      <itunes:title></itunes:title>
+      <itunes:subtitle></itunes:subtitle>
+    </metadata>
+    <ttm:agent xml:id="voice1" type="person">
+      <ttm:name type="full"></ttm:name>
+    </ttm:agent>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00:13.974" end="00:00:17.495" ttm:agent="#voice1">Ты — мой тихий рассвет, мой первый лучик за окном</p>
+      <p begin="00:00:17.735" end="00:00:21.092" ttm:agent="#voice1">Ты — тот самый ответ, что я искал давно во всём</p>
+      <p begin="00:00:21.518" end="00:00:24.340" ttm:agent="#voice1">В твоих глазах — весь мир, простой, без карт и шрифтов</p>
+      <p begin="00:00:24.521" end="00:00:28.030" ttm:agent="#voice1">Ты для меня — как бриз, что разгоняет любой шторм</p>
+      <p begin="00:00:28.203" end="00:00:31.452" ttm:agent="#voice1">Ты — мой тихий рассвет, мой первый лучик за окном</p>
+      <p begin="00:00:31.625" end="00:00:34.974" ttm:agent="#voice1">Ты — тот самый ответ, что я искал давно во всём</p>
+      <p begin="00:00:35.101" end="00:00:38.296" ttm:agent="#voice1">В твоих глазах — весь мир, простой, без карт и шрифтов</p>
+      <p begin="00:00:38.397" end="00:00:38.504" ttm:agent="#voice1">Ты для меня — как бриз, что разгоняет любой шторм</p>
+      <p begin="00:00:38.518" end="00:00:43.926" ttm:agent="#voice1">Ты — белый шум морской, что лечит нервы в клочья</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </body>
+</tt>
